@@ -1,6 +1,6 @@
 # Syllabus
 
-With credit to Mason F. Matthews for much of the content.
+With credit to [Mason F. Matthews](https://github.com/masonfmatthews) for much of the content.
 
 ## Teacher Contact Info
 
